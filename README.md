@@ -1,3 +1,3 @@
 # 1i21test
 ## test GitHub
-Hejka
+Nazywam się Jakub Kurpis i chodzę do pierwszej klasy technikum
