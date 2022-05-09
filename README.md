@@ -1,3 +1,3 @@
 # 1i21test
 ## test GitHub
-Hejka
+Nazywam sie Bartek mam 16 lat i mieszkam w Gliwicach
